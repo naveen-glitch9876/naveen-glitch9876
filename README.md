@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2E0854,50:4B0082,100:7B2CBF&height=220&section=header&text=ENGINEERING%20EXCELLENCE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+%26+AI+Systems+Engineer;Distributed+Systems+%7C+High-Throughput+APIs;LLM+Orchestration+%7C+RAG+Architectures;Building+Scalable+Cloud-Native+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=student+coder+%26+AI+integrated+Engineer;Distributed+Systems+%7C+High-Throughput+APIs;3D+ANIMATION+%7C+COMPUTER+HARDWARE;Building+microcontroller+Devices-Appreciable+Infrastructure" alt="Typing SVG" />
   </a>
 
   <br />
