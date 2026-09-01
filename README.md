@@ -10,7 +10,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Electical%20and%20computer-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Degree" />
     <img src="https://img.shields.io/badge/Location-India-2E0854?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-Enterprise%20Software%20%26%20AI-5A189A?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Enterprise%20Hardware%20%26%20AI-5A189A?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
   </p>
 
   <p align="center">
