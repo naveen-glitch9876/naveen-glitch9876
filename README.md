@@ -1,28 +1,41 @@
-name: Generate Snake
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:2E0854,50:4B0082,100:7B2CBF&height=220&section=header&text=ENGINEERING%20EXCELLENCE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling" width="100%" alt="Header Banner" />
 
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+%26+AI+Systems+Engineer;Distributed+Systems+%7C+High-Throughput+APIs;LLM+Orchestration+%7C+RAG+Architectures;Building+Scalable+Cloud-Native+Infrastructure" alt="Typing SVG" />
+  </a>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
+  <br />
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+  <p align="center">
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Computer%20Science-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Degree" />
+    <img src="https://img.shields.io/badge/Location-India-2E0854?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-Enterprise%20Software%20%26%20AI-5A189A?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  </p>
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <p align="center">
+    <a href="https://github.com/naveen-glitch9876">
+      <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:contact@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/naveen-glitch9876">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=naveen-glitch9876&style=flat-square&color=7B2CBF&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/naveen-glitch9876?label=FOLLOWERS&style=flat-square&color=5A189A&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/naveen-glitch9876?label=STARS&style=flat-square&color=3C096C&logo=apachespark" alt="Stars" />
+  </p>
+</div>
+
+---
+
+## 01. About Me
+
